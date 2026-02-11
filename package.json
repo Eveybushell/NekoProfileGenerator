@@ -1,0 +1,23 @@
+{
+  "name": "nekoprofilegenerator",
+  "version": "1.0.0",
+  "description": "A neko generator?",
+  "homepage": "https://github.com/Eveybushell/NekoProfileGenerator#readme",
+  "bugs": {
+    "url": "https://github.com/Eveybushell/NekoProfileGenerator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eveybushell/NekoProfileGenerator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nekos-best.js": "^6.5.0"
+  }
+}
